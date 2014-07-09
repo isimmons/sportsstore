@@ -1,0 +1,28 @@
+{
+  "name": "sportsstore-app",
+  "version": "0.0.1",
+  "description": "A online sports store foo! What you thing this is?",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isimmons/sportsstore"
+  },
+  "keywords": [
+    "sports",
+    "store"
+  ],
+  "author": "Ian Simmons",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/isimmons/sportsstore/issues"
+  },
+  "homepage": "https://github.com/isimmons/sportsstore",
+  "devDependencies": {
+    "connect": "^3.0.1",
+    "serve-static": "^1.3.0"
+  }
+}
