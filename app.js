@@ -1,1 +1,1 @@
-angular.module("sportsStore", []);
+angular.module("sportsStore", ["customFilters"]);
